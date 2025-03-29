@@ -8,3 +8,4 @@ wikipedia-api
 arxiv
 python-dotenv
 gunicorn
+wikipedia
